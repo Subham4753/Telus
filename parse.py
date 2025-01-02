@@ -32,7 +32,7 @@ def convert_tracker_to_frame_wise(input_file, output_file):
 
             if frame_name not in frame_wise["export_data"]["annotations"]["frames"]:
                 frame_wise["export_data"]["annotations"]["frames"][frame_name] = []
-            frame_info["tracker_id"] = tracker_id
+                
             frame_wise["export_data"]["annotations"]["frames"][frame_name].append(frame_info)
 
     with open(output_file, 'w') as f:
