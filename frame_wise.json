@@ -1,0 +1,308 @@
+{
+    "export_data": {
+        "annotations": {
+            "frames": {
+                "2021-11-12-23-26-39-558.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-26-39-558.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "10871699.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-27-52-175.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-27-52-175.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "no",
+                        "selfie_validity": "valid",
+                        "rider_id": "11665205.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-28-24-833.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-28-24-833.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "7374770.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-28-44-038.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-28-44-038.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "no",
+                        "selfie_validity": "valid",
+                        "rider_id": "12392356.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-28-47-705.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-28-47-705.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "10235136.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-28-49-625.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-28-49-625.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "no",
+                        "selfie_validity": "valid",
+                        "rider_id": "12173066.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-28-54-327.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-28-54-327.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "10105740.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-29-20-002.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-29-20-002.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "9819052.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-29-46-994.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-29-46-994.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "10698139.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-30-32-554.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-30-32-554.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "2101723.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-30-33-222.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-30-33-222.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "10068071.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-31-48-127.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-31-48-127.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "11501315.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-31-55-156.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-31-55-156.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "no",
+                        "selfie_validity": "valid",
+                        "rider_id": "11090435.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-33-43-836.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-33-43-836.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "3444564.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-33-46-313.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-33-46-313.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "no",
+                        "selfie_validity": "valid",
+                        "rider_id": "4766145.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-34-19-351.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-34-19-351.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "3803112.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-34-54-798.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-34-54-798.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "12485542.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-36-04-217.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-36-04-217.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "1892262.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-12-23-39-10-506.jpeg": [
+                    {
+                        "_id": "2021-11-12-23-39-10-506.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "9751964.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ],
+                "2021-11-13-09-55-05-662.jpeg": [
+                    {
+                        "_id": "2021-11-13-09-55-05-662.jpeg",
+                        "label": "rider_classification",
+                        "type": "landmark",
+                        "point_x": 0,
+                        "point_y": 0,
+                        "point_label": "1",
+                        "waering_mask": "yes",
+                        "wearing_shirt": "yes",
+                        "selfie_validity": "valid",
+                        "rider_id": "6170999.0",
+                        "tracker_id": "781db9b8-5c3f-4e56-8946-c639c52719ac"
+                    }
+                ]
+            }
+        }
+    }
+}
