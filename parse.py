@@ -1,3 +1,4 @@
+
 import json
 import csv
 
@@ -9,14 +10,15 @@ def convert_tracker_to_frame_wise(input_file, output_file):
     annotations = tracker_data["maker_response"]["video2d"]["data"]["annotations"]
     riders = tracker_data['rider_info']
     frame_wise = {"export_data": {"annotations": {"frames": {}}}}
-
+    no_of_annotations = 0
     for tracker in annotations:
         tracker_id = tracker["_id"]
         label = tracker['label']
         type = tracker['type']
+        no_of_annotations += len(tracker['frames'])
         for frame_name, annotation in tracker["frames"].items():
             frame_info={}
-            frame_info['_id'] = frame_name
+            frame_info['_id'] = annotation['_id']
             frame_info['label']= label
             frame_info['type']= type
             for loc_key, loc_info in annotation['points']['p1'].items():
@@ -35,6 +37,7 @@ def convert_tracker_to_frame_wise(input_file, output_file):
                 
             frame_wise["export_data"]["annotations"]["frames"][frame_name].append(frame_info)
 
+    frame_wise['export_data']['number of annotations'] = no_of_annotations
     with open(output_file, 'w') as f:
         json.dump(frame_wise, f, indent=4)
 
